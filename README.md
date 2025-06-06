@@ -136,22 +136,23 @@ The following table shows the supported tasks, datasets and models in our librar
 
 ## Installation
 
-1. (Optional) Creating conda environment
+1. (Optional) Create conda environment
 
 ```bash
-conda create -n lavis python=3.8
+conda create -n lavis python=3.10
 conda activate lavis
 ```
 
-2. install from [PyPI](https://pypi.org/project/salesforce-lavis/)
+2. Install from git
+
 ```bash
-pip install salesforce-lavis
+pip install salesforce-lavis@git+https://github.com/anson416/LAVIS.git
 ```
     
 3. Or, for development, you may build from source
 
 ```bash
-git clone https://github.com/salesforce/LAVIS.git
+git clone https://github.com/anson416/LAVIS.git
 cd LAVIS
 pip install -e .
 ```
