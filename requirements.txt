@@ -6,7 +6,7 @@ einops>=0.4.1
 fairscale==0.4.4
 ftfy
 h5py
-huggingface_hub
+huggingface_hub==0.24.6
 iopath
 ipython
 moviepy==1.0.3
@@ -31,11 +31,11 @@ sentencepiece
 soundfile
 spacy==3.8.7
 streamlit
-timm
+timm==0.4.12
 torch>=1.10.0
 torchaudio
 torchvision
 tqdm
-transformers
+transformers==4.33.2
 webdataset
 wheel
