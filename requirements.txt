@@ -31,11 +31,11 @@ sentencepiece
 soundfile
 spacy==3.8.7
 streamlit
-timm==0.4.12
+timm
 torch>=1.10.0
 torchaudio
 torchvision
 tqdm
-transformers==4.33.2
+transformers
 webdataset
 wheel
