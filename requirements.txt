@@ -11,9 +11,10 @@ iopath
 ipython
 moviepy==1.0.3
 nltk
-numpy==1.24.0
+numpy==2.2.6
 omegaconf
 open3d>=0.13.0
+opencv-python==4.11.0.86
 opencv-python-headless==4.5.5.64
 opendatasets
 packaging
@@ -28,7 +29,7 @@ pyyaml_env_tag==0.1
 scikit-image
 sentencepiece
 soundfile
-spacy==3.6.0
+spacy==3.8.7
 streamlit
 timm==0.4.12
 torch>=1.10.0
