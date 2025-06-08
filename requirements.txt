@@ -6,7 +6,7 @@ einops>=0.4.1
 fairscale==0.4.4
 ftfy
 h5py
-huggingface_hub==0.24.6
+huggingface_hub
 iopath
 ipython
 moviepy==1.0.3
